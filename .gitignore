@@ -1,0 +1,12 @@
+# Ignore VSCode-specific files
+.vscode/
+
+# Ignore build artifacts and generated files
+build
+
+*.o
+*.obj
+*.exe
+*.log
+*.core
+*.tmp
